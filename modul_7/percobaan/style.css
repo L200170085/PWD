@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+
+h2 {
+    font-family: 'comic sans ms';
+    background-color: red;
+    text-align: center;
+}
+
+table {
+    background-color: grey;
+    border-style: solid;
+    border-color: floralwhite;
+}
+
+.td {
+    font-weight: bold;
+    border-bottom-style: dotted;
+    border-color: floralwhite;
+}
